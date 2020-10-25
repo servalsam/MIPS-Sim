@@ -1,5 +1,5 @@
 ================================================================================
-* Author: Samuel Wainright
+* Author: Samuel Servane
 * Current revision: v1.3
 * Revision date: 11/13/2019
 * Program Name: MIPS-Sim
