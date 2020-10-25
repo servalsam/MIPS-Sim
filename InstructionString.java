@@ -12,7 +12,7 @@ import java.util.Arrays;
  * <li> Peforms sign extension when required.
  * </ul>
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public class InstructionString {
