@@ -8,7 +8,7 @@ package mipssim.swain91.git;
  * All of the methods from {@link Computer} class are utilized by
  * ComputerInstance.
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public enum ComputerInstance {
