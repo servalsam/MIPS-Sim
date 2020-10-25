@@ -4,7 +4,7 @@ package mipssim.swain91.git;
  * The base class for register instruction representation in MIPS. Acts as a
  * container class for variables required to execute a instruction.
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public class RegisterInstruction implements Instruction {
