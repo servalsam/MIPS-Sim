@@ -8,7 +8,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Test class for the {@link ImmediateInstruction} class.
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public class ImmediateInstructionTest {
