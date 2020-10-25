@@ -15,7 +15,7 @@ package mipssim.swain91.git;
  * <p>
  * The fetch method preludes any operation. The decode and execute follows.
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public final class Computer {
