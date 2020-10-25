@@ -13,7 +13,7 @@ import org.junit.jupiter.api.Test;
  * ComputerInstance cannot be tested without Dependency Injection, however it
  * utilizes all of the same methods on a Computer object.
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public class ComputerTest {
