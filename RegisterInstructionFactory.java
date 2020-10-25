@@ -4,7 +4,7 @@ package mipssim.swain91.git;
  * Factory pattern-based class for {@link RegisterInstruction} objects. 
  * Allows immediate instructions to determine for themselves their own characteristics.
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public class RegisterInstructionFactory implements AbstractInstructionFactory {
