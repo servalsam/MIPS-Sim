@@ -5,7 +5,7 @@ package mipssim.swain91.git;
  * and {@link JumpInstruction} based on the given {@link InstructionString} object data.
  * Returns a new MIPS instruction based on the data.
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public class InstructionFactory {
