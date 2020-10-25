@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * Driver class that instantiates a MIPS simulator and an instruction loader (ROM BIOS).
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public final class Simulator {
