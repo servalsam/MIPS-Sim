@@ -8,7 +8,7 @@ import org.junit.jupiter.api.BeforeAll;
 /**
  * Test class for the {@link JumpInstruction} class
  * 
- * @author Samuel Wainright
+ * @author Samuel Servane
  * @version 1.3
  */
 public class JumpInstructionTest {
